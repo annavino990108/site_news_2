@@ -1,0 +1,35 @@
+  @media only screen and (max-width: 450px) {
+        .pic_news .pic_news_fon {
+            max-width: 100%;
+            max-height: 100%;
+         }
+
+        .img_news{
+             border-radius: 50%;
+             max-width: 50%;
+             margin-bottom:10px;
+             margin-left: 20%;
+        }
+                 .news{
+          max-width: 100%;
+          padding: auto;
+         }
+        .checkbox label:before{
+          width:15%;
+          height:25%;
+          top:30%;
+        }
+        .checkbox label:after{
+          top:40%;
+        }
+          .checkbox {
+            max-width: 100%;
+            display: inline-block;
+        }
+         .conteinerview{
+            width: 100%;
+        }
+        .conteiner{
+            max-width: 100%;
+        }
+    }

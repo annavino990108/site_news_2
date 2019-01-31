@@ -1,0 +1,28 @@
+.login_block{
+  position: fixed;
+  background: rgba(114, 114, 114, 0.5);
+  top:0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9999;
+}
+.login_block > div{
+  background-color: #000000;
+  position: relative;
+  width: 400px;
+  height: 200px;
+  left: 50%;
+  top:50%;
+  margin: -100px 0 0 -200px;
+}
+#login{
+  padding-top: 5%;
+  padding-left: 30%;
+}
+#login > input{
+  margin-top: 20px;
+}
+#buttom{
+  margin-left:;
+}
